@@ -14,4 +14,4 @@ Tells you how much you want to tan based on the UV and your skin color.
 
 The image aboves shows the little tips the app gives you
 
-![image](https://github.com/user-attachments/assets/ba080558-6151-4911-9be9-d91021a62804)
+![image](https://github.com/Aero-ComSci/final-project-rai/blob/main/Screenshot%202025-05-28%20104305.png)
