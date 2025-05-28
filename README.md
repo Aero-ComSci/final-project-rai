@@ -11,5 +11,5 @@ Who is the program for?
 What does the program do? 
 Tells you how much you want to tan based on the UV and your skin color. 
 
-![image](https://github.com/user-attachments/assets/dde42dd7-140e-4909-b9da-2e20bd5fec1d)
+![image](https://github.com/user-attachments/assets/c187d9e6-9baa-4c61-a356-f163666e700a)
 The image aboves shows the little tips the app gives you
